@@ -1,0 +1,11 @@
+UK Train Rides
+
+Recommended Analysis:
+ 
+1. What are the most popular routes?
+
+2. What are the peak travel times?
+
+3. How does revenue vary by ticket types and classes?
+
+4. What is the on-time performance? What are the main contributing factors?
